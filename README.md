@@ -9,7 +9,7 @@ CPU: i5-6200u
 
 ## work
 - Microphone (webcam/mic commbo, but no webcam)
-- wifi&Bluetooth (I buy a new wireless card and replaced with it,so it works)
+- wifi&Bluetooth (I buy a new wireless card(DW1820) and replaced with it,so it works)
 - Display brightness
 - IGPU
 - Speakers
@@ -22,3 +22,4 @@ it work so fine in MacOS Mojave 10.14.6,i buy a new wireless card and replaced w
 I collected many tutorial and Clover form Internet and tested them in my computer,so if you like my repository,please give a star for me,thanks.
 ## How to Use
 Replace your CLOVER with my CLOVER floder in EFI folder(you should know).In KEXT/Other folder,there are some kext maybe you dont't need such as BrcmFirmwareData.kext、BrcmNonPatchRAM2.kext、BrcmPatchRAM2.kext，cause they are for my wirewless card. 
+ 
